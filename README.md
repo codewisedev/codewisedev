@@ -15,6 +15,18 @@ Here are some ideas to get you started:
 
 <a href="https:/smrdev.ir"><img src="https://github.com/smreyhanieng/smreyhanieng/blob/main/images/SMR%20Logo.png" width="100%" height="auto"/></a>
 
+<p align="center"><img src="animation.gif" width="35%"></p>
+<div style=" font-size: medium; color: #6a31a7" align=center>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=6a31a7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+SMR+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Software+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;In+building+backend+infrastructures+%E2%9A%99%EF%B8%8F" alt="SMR" width="650" height="55">
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+  </p>
+<br>
+
+</div>
+
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="5px"> Hi, I am Mohammad. (SMR) 👨‍💻
 
 I am a Back-End Software Developer. I love to learn new things.
@@ -37,7 +49,7 @@ Here are a few things I've picked up along my learning journey.
 
 - 🤝 I’m looking for help with **finding projects to contribute to!**
 
-- 👨‍💻 All of my projects are available at [miaxu.co](https://smrdev.ir)
+- 👨‍💻 All of my projects are available at [smrdev.ir](https://smrdev.ir)
 
 - 💬 Ask me about **open source, web development, and community management**
 
@@ -46,9 +58,21 @@ Here are a few things I've picked up along my learning journey.
 </details>
 </p>
 
-## 🔥 Github Stats
-<a href="https://github.com/smreyhanieng"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=smreyhanieng&theme=radical&title_color=6a31a7"></a>
-<a href="https://github.com/smreyhanieng"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=smreyhanieng&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=6a31a7&fire=6a31a7&sideNums=6a31a7"></a>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  </p>
+<br>
+
+# 📈 Statistics 📈
+![](https://komarev.com/ghpvc/?username=smreyhanieng&color=447ff7&label=Visitor+count)
+
+<p align="center">
+  <a href="https://github.com/smreyhanieng">
+    <img src="https://github-readme-stats.vercel.app/api?username=smreyhanieng&show_icons=true&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=smreyhanieng&theme=github-dark-blue&hide_border=true" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=smreyhanieng&theme=react-dark" />
+</a>
+</p>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -83,8 +107,5 @@ Here are a few things I've picked up along my learning journey.
 <p align="left">
   <a href="https://github.com/smreyhanieng?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
-
-## 🎮 Try pressing the buttons and come back down
-
 
 ![SMR](https://github.com/smreyhanieng/smreyhanieng/blob/main/images/footer.svg)
