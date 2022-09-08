@@ -37,11 +37,11 @@ Here are a few things I've picked up along my learning journey.
 
 - 🤝 I’m looking for help with **finding projects to contribute to!**
 
-- 👨‍💻 All of my projects are available at [miaxu.co](https://miaxu.co)
+- 👨‍💻 All of my projects are available at [miaxu.co](https://smrdev.ir)
 
 - 💬 Ask me about **open source, web development, and community management**
 
-- 📫 Reach me out at **contact@miaxu.co**
+- 📫 Reach me out at **smrdevir@gmail.com**
 
 </details>
 </p>
