@@ -85,3 +85,6 @@ Here are a few things I've picked up along my learning journey.
 </p>
 
 ## 🎮 Try pressing the buttons and come back down
+
+
+![SMR](https://github.com/smreyhanieng/smreyhanieng/blob/main/images/footer.svg)
