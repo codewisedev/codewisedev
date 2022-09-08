@@ -17,14 +17,10 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="animation.gif" width="35%"></p>
 <div style=" font-size: medium; color: #6a31a7" align=center>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=6a31a7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+SMR+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Software+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;In+building+backend+infrastructures+%E2%9A%99%EF%B8%8F" alt="SMR" width="650" height="55">
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-  </p>
-<br>
-
+</p>
 </div>
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="5px"> Hi, I am Mohammad. (SMR) 👨‍💻
@@ -60,8 +56,7 @@ Here are a few things I've picked up along my learning journey.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  </p>
-<br>
+</p>
 
 # 📈 Statistics 📈
 ![](https://komarev.com/ghpvc/?username=smreyhanieng&color=447ff7&label=Visitor+count)
