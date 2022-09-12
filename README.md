@@ -59,7 +59,7 @@ Here are a few things I've picked up along my learning journey.
 </p>
 
 # 📈 Statistics 📈
-![](https://komarev.com/ghpvc/?username=smreyhanieng&color=447ff7&label=Visitor+count)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=smreyhanieng/smreyhanieng)
 
 <p align="center">
   <a href="https://github.com/smreyhanieng">
@@ -93,9 +93,7 @@ Here are a few things I've picked up along my learning journey.
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/smrdev)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/smreyhanieng)
 
- or give some ♥ on [mail](mailto:smrdevir@gmail.com)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=smreyhanieng/smreyhanieng)
+or give some ♥ on [mail](mailto:smrdevir@gmail.com)
 
 ## 📘 My top open source projects
 
