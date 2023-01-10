@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https:/smrdev.ir"><img src="https://github.com/smreyhanieng/smreyhanieng/blob/main/images/SMR%20Logo.png" width="100%" height="auto"/></a>
+<!-- <a href="https:/smrdev.ir"><img src="https://github.com/smreyhanieng/smreyhanieng/blob/main/images/SMR%20Logo.png" width="100%" height="auto"/></a>-->
 
 <p align="center"><img src="animation.gif" width="35%"></p>
 <div style=" font-size: medium; color: #6a31a7" align=center>
