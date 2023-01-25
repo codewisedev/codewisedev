@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <a href="https:/smrdev.ir"><img src="https://github.com/smreyhanieng/smreyhanieng/blob/main/images/SMR%20Logo.png" width="100%" height="auto"/></a>-->
+<!-- 
+<a href="https:/smrdev.ir"><img src="https://github.com/smreyhanieng/smreyhanieng/blob/main/images/SMR%20Logo.png" width="100%" height="auto"/></a>
+-->
 
 <p align="center"><img src="animation.gif" width="35%"></p>
 <div style=" font-size: medium; color: #6a31a7" align=center>
@@ -25,7 +27,7 @@ Here are some ideas to get you started:
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="5px"> Hi, I am Mohammad. (SMR) 👨‍💻
 
-I am a Back-End Software Developer. I love to learn new things.
+I am a Back-End Developer. I like to learn new things.
 
 ### 🔭 Have a look at my [website](https://smrdev.ir/).
 
@@ -86,7 +88,6 @@ Here are a few things I've picked up along my learning journey.
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
   
 ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-000?&style=for-the-badge&logo=Jira-Software&logoColor=0052CC)
 
 ## 📫 Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/smreyhani)
