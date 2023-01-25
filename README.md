@@ -87,5 +87,3 @@ or give some ♥ on [mail](mailto:smrdevir@gmail.com)
 <p align="left">
   <a href="https://github.com/smreyhanieng?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
-
-![SMR](https://github.com/smreyhanieng/smreyhanieng/blob/main/images/footer.svg)
