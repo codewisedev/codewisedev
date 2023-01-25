@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- 
-<a href="https:/smrdev.ir"><img src="https://github.com/smreyhanieng/smreyhanieng/blob/main/images/SMR%20Logo.png" width="100%" height="auto"/></a>
--->
-
 <p align="center"><img src="animation.gif" width="35%"></p>
 <div style=" font-size: medium; color: #6a31a7" align=center>
 <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=6a31a7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+SMR+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Software+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;In+building+backend+infrastructures+%E2%9A%99%EF%B8%8F" alt="SMR" width="650" height="55">
@@ -67,27 +63,17 @@ Here are a few things I've picked up along my learning journey.
   <a href="https://github.com/smreyhanieng">
     <img src="https://github-readme-stats.vercel.app/api?username=smreyhanieng&show_icons=true&theme=github_dark&hide_border=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=smreyhanieng&theme=github-dark-blue&hide_border=true" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=smreyhanieng&theme=react-dark" />
 </a>
 </p>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-  
+
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![NestJS](https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
- 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-  
-![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📫 Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/smreyhani)
