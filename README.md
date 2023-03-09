@@ -1,6 +1,12 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="5px"> Hi, I'm Mohammad 👨‍💻
 
-I'm Software Engineer
+I'm a highly skilled and experienced back-end developer with over 7 years of experience in the industry. My expertise lies in designing and implementing complex systems that are both efficient and scalable. I have a deep understanding of various programming languages such as JS and GoLang as well as experience with different databases and frameworks.
+
+Throughout my career, I have worked on numerous projects ranging from small-scale applications to large enterprise-level systems. I am passionate about solving complex problems and finding innovative solutions.
+
+In addition to my technical skills, I am also an excellent communicator and team player. I enjoy collaborating with others to achieve common goals and believe that effective communication is key to any successful project.
+
+I'm here to bring ideas to life!
 
 ## ⚡ Tech Stack
 
