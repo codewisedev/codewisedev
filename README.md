@@ -1,12 +1,10 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="5px"> Hi, I'm Mohammad 👨‍💻
 
-I'm a highly skilled and experienced back-end developer with over 7 years of experience in the industry. My expertise lies in designing and implementing complex systems that are both efficient and scalable. I have a deep understanding of various programming languages such as JS and GoLang as well as experience with different databases and frameworks.
+I specialize in crafting intricate, scalable systems as a back-end developer. I've tackled diverse frameworks and databases. Over time, I've contributed to projects spanning small-scale apps to extensive enterprise systems. I'm passionate about unraveling complex problems through innovative solutions.
 
-Throughout my career, I have worked on numerous projects ranging from small-scale applications to large enterprise-level systems. I am passionate about solving complex problems and finding innovative solutions.
+Beyond technical prowess, I value effective communication and teamwork. Collaborating towards shared objectives excites me, recognizing that communication is pivotal in project success.
 
-In addition to my technical skills, I am also an excellent communicator and team player. I enjoy collaborating with others to achieve common goals and believe that effective communication is key to any successful project.
-
-I'm here to bring ideas to life!
+I'm here to breathe life into ideas!
 
 ## ⚡ Tech Stack
 
@@ -53,6 +51,7 @@ I'm here to bring ideas to life!
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 #### Cloud
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
