@@ -1,10 +1,9 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="5px"> Hi, I'm Mohammad 👨‍💻
 
-I specialize in crafting intricate, scalable systems as a back-end developer. I've tackled diverse frameworks and databases. Over time, I've contributed to projects spanning small-scale apps to extensive enterprise systems. I'm passionate about unraveling complex problems through innovative solutions.
+I'm a Software engineer who crafts resilient, maintainable back-end systems. Who builds out the back-end systems, including reliable and scalable user flows.
+I work on various projects from startups to large enterprises because I have a great base with frameworks, databases, and architecture.
 
-Beyond technical prowess, I value effective communication and teamwork. Collaborating towards shared objectives excites me, recognizing that communication is pivotal in project success.
-
-I'm here to breathe life into ideas!
+I love to turn dreams into a reality. Jump in and let us build something great together!
 
 ## ⚡ Tech Stack
 
