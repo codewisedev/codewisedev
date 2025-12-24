@@ -3,7 +3,7 @@
 I'm a Software engineer who crafts resilient, maintainable back-end systems. Who builds out the back-end systems, including reliable and scalable user flows.
 I work on various projects from startups to large enterprises because I have a great base with frameworks, databases, and architecture.
 
-I love to turn dreams into a reality. Jump in and let us build something great together!
+I love to turn dreams into reality. Jump in and let us build something great together!
 
 ## ⚡ Tech Stack
 
